@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-
+# code begins
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
